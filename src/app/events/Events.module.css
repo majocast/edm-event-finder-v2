@@ -1,0 +1,8 @@
+.events {
+	display: flex;
+	max-width: 1200px;
+	height: auto;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 10px;
+}

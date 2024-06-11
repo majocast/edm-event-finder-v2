@@ -1,0 +1,9 @@
+.CTA {
+	margin-top: 10px;
+	max-width: 150px;
+	padding: 10px 15px;
+	border: 2px solid bisque;
+	background-color: #0d0d0d;
+	color: bisque;
+	border-radius: 15px;
+}
